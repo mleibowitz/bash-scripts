@@ -1,12 +1,12 @@
 
 [alias]
 	co = checkout
-	pum = pull origin develop
+	pum = pull origin main
 	s = status
 	cm = commit -m
 	pr = push -u origin HEAD
 	lg = log
 	rb = rebase
 [user]
-	email = matthew@lazaza.ai
+	email = mjleibowitz@gmail.com
 	name = Matthew Leibowitz
